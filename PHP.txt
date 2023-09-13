@@ -1,0 +1,20 @@
+wELCOME TO The world of php 
+
+php--> Hypertext preprocesscor  :)
+
+-->php uses in lots of applications  [multi-purpose ,php cms,frameworks,large community]
+
+-->not best for  Realtime applicatons and ml ai
+
+What is numeric value in PHP?
+The is_numeric() function is an inbuilt function in PHP which is used to check whether a variable passed in function
+ as a parameter is a number or a numeric string or not. The function returns a boolean value. 
+ Syntax: bool is_numeric ( $var )
+
+
+
+
+
+ PHP_EOL (string) The correct 'End Of Line' symbol for this platform
+
+ 
